@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## I'm MinhKhoi Nguyen
+## About me:
 
 - 🔭 I'm currently working to become a web developer
 - 📖 I’m currently learning Full Stack Web Developer at University of Washington Coding Bootcamp
@@ -14,13 +14,9 @@
 - 😄 Pronouns: (he/his)
 - 💬 Ask me anything about Cats
 
-<div  align="center">
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=minhkhoinguy&count_private=true&showicons=true)]()
 
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=minhkhoinguy&count_private=true&theme=tokyonight&showicons=true)]()
-
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minhkhoinguy&langs_count=5&theme=tokyonight)]()
-
-</div>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minhkhoinguy&langs_count=5)]()
 
 ### 🛠️ Languages and Tools :
 
