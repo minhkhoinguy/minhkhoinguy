@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## I'm MinhKhoi Nguyen
+## About me:
 
 - 🔭 I'm currently working to become a web developer
 - 📖 I’m currently learning Full Stack Web Developer at University of Washington Coding Bootcamp
