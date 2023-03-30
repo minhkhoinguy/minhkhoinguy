@@ -10,7 +10,7 @@
 
 - 🔭 I'm currently working to become a Font-end Developer
 - 📖 I’m currently learning Full Stack Web Developer at University of Washington Coding Bootcamp
-- 📫 You can reach me on: [Email](mailto:minhkhoinguy@gmail.com) or [LinkedIn](https://www.linkedin.com/in/minhkhoi-nguyen-3a8b82237/)
+- 📫 You can reach me on: [Email](mailto:minhkhoinguy@gmail.com) or [LinkedIn](https://www.linkedin.com/in/minhkhoinguy/)
 - 😄 Pronouns: (he/his)
 - 💬 Ask me anything about Cats
 
